@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548330636364",
+    "project_id": "simulator-dio-santander-cf08f",
+    "storage_bucket": "simulator-dio-santander-cf08f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548330636364:android:9a7d990d6558c1b1ade0e9",
+        "android_client_info": {
+          "package_name": "zuini.gustavo.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548330636364-3vcfnusuvf3hd2o8nc6hhphnfe1g457a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIO7pXQknr1bucW0BG1vdmEl49GZFJZD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548330636364-3vcfnusuvf3hd2o8nc6hhphnfe1g457a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
